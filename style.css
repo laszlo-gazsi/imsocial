@@ -1,0 +1,50 @@
+/*SOCIAL ICONS*/
+
+#imsocial {
+    float: right;
+}
+
+.imsocial {
+    color: #fff;
+}
+
+#imsocial img {
+    padding: 6px;
+    border: 1px solid #00ab10;
+}
+
+#imsocial img:hover {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+#github img:hover {
+    background-color: #267512;
+}
+
+#website img:hover {
+    background-color: #F97A00;
+}
+
+#instagram img:hover {
+    background-color: #517fa4;
+}
+
+#twitter img:hover {
+    background-color: #30D8F0;
+}
+
+#google img:hover {
+    background-color: #C61800;
+}
+
+#facebook img:hover {
+    background-color: #335795;
+}
+
+#youtube img:hover {
+    background-color: #B50505;
+}
+
+#linkedin img:hover {
+    background-color: #006CB2;
+}
